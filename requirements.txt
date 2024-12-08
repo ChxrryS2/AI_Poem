@@ -1,0 +1,5 @@
+#.requirements.txt
+python-dotenv
+openai
+langchain
+langchain-openai
